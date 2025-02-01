@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Edu+AU+VIC+WA+NT+Pre:wght@600&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.geral{
+  padding-top: 3%;
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+}
+.geral h1 span{
+  color: green;
+}
+.tarefaAdicionar{
+  display: flex;
+  margin: 4% 0;
+  justify-self: center;
+  width: 90%;
+  gap: 5%;
+}
+.tarefaAdicionar input[type=text]{
+  width: 70%;
+  height: 40px;
+  border-radius: 10px;
+  padding-left: 2%;
+}
+.tarefaAdicionar input[type=submit]{
+  width: 30%;
+  border: none;
+  border-radius: 70px;
+  background: linear-gradient(to top, #dd6c6c, #099fe4);
+  color: #cec003;
+  font-size: large;
+}
+.tarefas{
+  width: 100%;
+}
+.tarefa{
+  width: 80%;
+  justify-content: space-between;
+  display: flex;
+  justify-self: center;
+  border: 5px solid transparent;
+  border-image: linear-gradient(to top, #dd6c6c, #099fe4);
+  border-image-slice: 1;
+  padding: 1%;
+  margin: 2%;
+  font-family: 'dancing script', sans-serif;
+  font-size: x-large;
+ /* background: linear-gradient(to top, #dd6c6c, #099fe4);*/
+}
+.tarefa button{
+  width: 6%;
+}
+@media (max-width:500px) {
+  .tarefa button{
+    width: 10%;
+  }
+}

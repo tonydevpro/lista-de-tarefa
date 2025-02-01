@@ -2,7 +2,7 @@
   "name": "lista-de-tarefa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seu-usuario.github.io/lista-de-tarefa"
+  "homepage": "https://tonydevpro.github.io/lista-de-tarefa"
 ,
   "dependencies": {
     "cra-template": "1.2.0",

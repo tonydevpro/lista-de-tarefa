@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lista-de-tarefa/static/css/main.5def35ac.css",
+    "main.js": "/lista-de-tarefa/static/js/main.e5d50cd4.js",
+    "static/js/488.87ba5b4f.chunk.js": "/lista-de-tarefa/static/js/488.87ba5b4f.chunk.js",
+    "index.html": "/lista-de-tarefa/index.html",
+    "main.5def35ac.css.map": "/lista-de-tarefa/static/css/main.5def35ac.css.map",
+    "main.e5d50cd4.js.map": "/lista-de-tarefa/static/js/main.e5d50cd4.js.map",
+    "488.87ba5b4f.chunk.js.map": "/lista-de-tarefa/static/js/488.87ba5b4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5def35ac.css",
+    "static/js/main.e5d50cd4.js"
+  ]
+}
